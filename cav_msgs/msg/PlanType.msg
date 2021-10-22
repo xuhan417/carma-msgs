@@ -13,6 +13,10 @@ uint8       CHANGE_LANE_RIGHT = 2
 uint8       JOIN_PLATOON_AT_REAR = 3
 uint8       PLATOON_FOLLOWER_JOIN = 4
 
+# UCLA: ADDED FOR FRONTAL JOIN
+uint8       JOIN_PLATOON_FROM_FRONT= 5
+uint8       PLATOON_FRONT_JOIN = 6
+
 # ideas for future additions:
 # uint8       SEARCHING_FOR_PLATOON = 5
 # uint8       DEPART_PLATOON = 6
